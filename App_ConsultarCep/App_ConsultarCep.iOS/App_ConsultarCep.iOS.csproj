@@ -157,4 +157,7 @@
       <Name>App_ConsultarCep</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\correios.png" />
+  </ItemGroup>
 </Project>
